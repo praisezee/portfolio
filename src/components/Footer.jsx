@@ -44,7 +44,7 @@ const Footer = () =>
                   </Link>
                 </Col>
                 <Col xs={ 6 }>
-                  <Link to='https://www.linkedin.com/praise-folorunso-291826242'>
+                  <Link to='https://www.linkedin.com/in/praise-folorunso-291826242'>
                     <BsLinkedin className='border rounded display-3 bg-light text-primary p-1'/>
                   </Link>
                 </Col>
