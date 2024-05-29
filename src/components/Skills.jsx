@@ -35,7 +35,7 @@ const Skills = () => {
               <h3>Node js</h3>
               <FaNodeJs className="bg-success fs-2"/>
             </div>
-            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={55 } label='55%' />
+            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={65} label='65%' />
           </Col>
           <Col xs={ 10 } md={ 6 } lg={4} className="mx-auto my-3 p-2">
             <div className="d-flex justify-content-between">
@@ -55,7 +55,7 @@ const Skills = () => {
             <div className="d-flex justify-content-between">
               <h3>Express js</h3>
             </div>
-            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={60 } label='60%' />
+            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={70 } label='70%' />
           </Col>
           <Col xs={ 10 } md={ 6 } lg={4} className="mx-auto my-3 p-2">
             <div className="d-flex justify-content-between">
@@ -67,13 +67,13 @@ const Skills = () => {
             <div className="d-flex justify-content-between">
               <h3>Solidity</h3>
             </div>
-            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={25 } label='25%' />
+            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={ 55 } label='55%' />
           </Col>
           <Col xs={ 10 } md={ 6 } lg={4} className="mx-auto my-3 p-2">
             <div className="d-flex justify-content-between">
               <h3>HardHat</h3>
             </div>
-            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={15 } label='15%' />
+            <ProgressBar variant="dark" striped animated aria-valuemax={ 100 } aria-valuemin={ 0 } role="progress-bar" now={45 } label='45%' />
           </Col>
         </Row>
       </Container>
