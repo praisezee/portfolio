@@ -23,7 +23,7 @@ const Hero = () => {
             <Row>
               <Col xs={ 10 } md={ 6 } lg={ 8 } className="my-auto mx-auto">
                 <p className="text-uppercase text-danger text-center fw-bold mx-auto">hello!</p>
-                <p className="h1 text-capitalize text-center fw-bold mx-auto">I&apos;m a <span className="text-danger">fullstack developer</span> based in Nigeria</p>
+                <p className="h1 text-capitalize text-center fw-bold mx-auto">I&apos;m a <span className="text-danger">fullstack developer</span> also a web3 developer</p>
               </Col>
               <Col xs={ 10 } md={ 6 } lg={ 4 } className="my-auto mx-auto">
                 <img src={img2} alt='profile' className="mx-auto text-center img-fluid rounded-4"/>
