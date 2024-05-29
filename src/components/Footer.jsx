@@ -39,7 +39,7 @@ const Footer = () =>
               <h5 className="mb-1 ">Socials</h5>
               <Row className='g-2'>
                 <Col xs={ 6 }>
-                  <Link to='https://www.twitter.com/folorunsoprais1'>
+                  <Link to='https://www.twitter.com/dev_apus'>
                     <BsTwitter className=' bg-white text-primary rounded display-3 p-1'/>
                   </Link>
                 </Col>
